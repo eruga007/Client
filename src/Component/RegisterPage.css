@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+}
+.border-inner{
+    border: 10px solid #01FE99;
+    border-radius: 20px 20px 20px 20px;
+}
+.border-bg{
+    border: 2px solid white;
+    border-radius: 20px 20px 20px 20px;
+    border-left-width: 400px;
+    border-right-width: 400px;
+}
+
+.main-form{
+    
+    font-size: 30px;
+}
+.firstname-form{
+    font-size: 30px;
+}
+.lastname-form{
+    font-size: 30px;
+}
+.height-form{
+    font-size: 30px;
+}
+.weight-form{
+    font-size: 30px;
+}
+.BMI-form{
+    font-size: 30px;
+}
